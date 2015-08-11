@@ -31,7 +31,7 @@
       <div class="col-md-10 col-sm-6 hght3">
         <div class="row">
           <div class="col-md-4 col-sm-6 col-xs-6">
-            <img src="http://www.newsgram.com/wp-content/uploads/2015/07/saurav-ganguly1.jpg" class="img-responsive"/>
+            <img src="https://s-media-cache-ak0.pinimg.com/236x/c1/f0/d1/c1f0d16e2ef38e1c3dba885b23897e66.jpg" class="img-responsive"/>
           </div>
           <div class="col-md-7 col-sm-6 col-xs-6">
             <span>Muzaffar ali</span><br/>
@@ -60,7 +60,7 @@
                 <span class="control-span write5">Md.Rehan</span>
               </div>
               <div class="col-md-4 col-sm-6 col-xs-6 ">
-                <img class="img"src="http://www.newsgram.com/wp-content/uploads/2015/07/saurav-ganguly1.jpg" class="img-responsive"/>
+                <img class="img"src="https://s-media-cache-ak0.pinimg.com/236x/c1/f0/d1/c1f0d16e2ef38e1c3dba885b23897e66.jpg" class="img-responsive"/>
               </div>
               <div class="col-md-2 col-sm-6 col-xs-6 ">
                 <span class="write5">Score</span>
@@ -85,7 +85,7 @@
                   <span class="control-span write5">Bhanu Chandra</span>
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-6 ">
-                  <img class="img"src="http://www.newsgram.com/wp-content/uploads/2015/07/saurav-ganguly1.jpg" class="img-responsive"/>
+                  <img class="img"src="https://s-media-cache-ak0.pinimg.com/236x/c1/f0/d1/c1f0d16e2ef38e1c3dba885b23897e66.jpg" class="img-responsive"/>
                 </div>
                 <div class="col-md-2 col-sm-6 col-xs-6 ">
                   <span class="write5">Score</span>
@@ -108,103 +108,6 @@
 
 
 
-      <!--      <div class="row">
-              <div class="col-md-4 col-sm-6 col-xs-6 ">
-                <span class="control-span write5">Saurav Ganguly</span>
-              </div>
-              <div class="col-md-4 col-sm-6 col-xs-6 ">
-                <img class="img"src="http://www.newsgram.com/wp-content/uploads/2015/07/saurav-ganguly1.jpg" class="img-responsive"/>
-              </div>
-              <div class="col-md-2 col-sm-6 col-xs-6 ">
-                <span class="write5">Score</span>
-              </div>
-                <div class="col-md-2 col-sm-6 col-xs-6 ">
-                <span class="write5">500</span>
-              </div>
-            </div>
-
-
-            <div class="row">
-              <div class="col-md-4 col-sm-6 col-xs-6 ">
-                <span class="control-span write5">Saurav Ganguly</span>
-              </div>
-              <div class="col-md-4 col-sm-6 col-xs-6 ">
-                <img class="img"src="http://www.newsgram.com/wp-content/uploads/2015/07/saurav-ganguly1.jpg" class="img-responsive"/>
-              </div>
-              <div class="col-md-2 col-sm-6 col-xs-6 ">
-                <span class="write5">Score</span>
-              </div>
-                <div class="col-md-2 col-sm-6 col-xs-6 ">
-                <span class="write5">500</span>
-              </div>
-            </div>
-
-
-            <div class="row">
-              <div class="col-md-4 col-sm-6 col-xs-6 ">
-                <span class="control-span write5">Saurav Ganguly</span>
-              </div>
-              <div class="col-md-4 col-sm-6 col-xs-6 ">
-                <img class="img"src="http://www.newsgram.com/wp-content/uploads/2015/07/saurav-ganguly1.jpg" class="img-responsive"/>
-              </div>
-              <div class="col-md-2 col-sm-6 col-xs-6 ">
-                <span class="write5">Score</span>
-              </div>
-                <div class="col-md-2 col-sm-6 col-xs-6 ">
-                <span class="write5">500</span>
-              </div>
-            </div>
-
-
-            <div class="row">
-              <div class="col-md-4 col-sm-6 col-xs-6 ">
-                <span class="control-span write5">Saurav Ganguly</span>
-              </div>
-              <div class="col-md-4 col-sm-6 col-xs-6 ">
-                <img class="img"src="http://www.newsgram.com/wp-content/uploads/2015/07/saurav-ganguly1.jpg" class="img-responsive"/>
-              </div>
-              <div class="col-md-2 col-sm-6 col-xs-6 ">
-                <span class="write5">Score</span>
-              </div>
-                <div class="col-md-2 col-sm-6 col-xs-6 ">
-                <span class="write5">500</span>
-              </div>
-            </div>
-
-
-
-
-
-            <div class="row">
-              <div class="col-md-4 col-sm-6 col-xs-6 ">
-                <span class="control-span write5">Saurav Ganguly</span>
-              </div>
-              <div class="col-md-4 col-sm-6 col-xs-6 ">
-                <img class="img"src="http://www.newsgram.com/wp-content/uploads/2015/07/saurav-ganguly1.jpg" class="img-responsive"/>
-              </div>
-              <div class="col-md-2 col-sm-6 col-xs-6 ">
-                <span class="write5">Score</span>
-              </div>
-                <div class="col-md-2 col-sm-6 col-xs-6 ">
-                <span class="write5">500</span>
-              </div>
-            </div>
-
-
-            <div class="row">
-              <div class="col-md-4 col-sm-6 col-xs-6 ">
-                <span class="control-span write5">Saurav Ganguly</span>
-              </div>
-              <div class="col-md-4 col-sm-6 col-xs-6 ">
-                <img class="img"src="http://www.newsgram.com/wp-content/uploads/2015/07/saurav-ganguly1.jpg" class="img-responsive"/>
-              </div>
-              <div class="col-md-2 col-sm-6 col-xs-6 ">
-                <span class="write5">Score</span>
-              </div>
-                <div class="col-md-2 col-sm-6 col-xs-6 ">
-                <span class="write5">500</span>
-              </div>
-            </div> -->
 
 
         </div>
@@ -229,45 +132,45 @@
   <div class="row">
     <div class="col-md-12">
       <div class="col-md-6">
-      <img class="img1"src="http://www.newsgram.com/wp-content/uploads/2015/07/saurav-ganguly1.jpg" class="img-responsive"/>
+      <img class="img1"src="https://s-media-cache-ak0.pinimg.com/236x/c1/f0/d1/c1f0d16e2ef38e1c3dba885b23897e66.jpg" class="img-responsive"/>
         <span class="control-span write6">Bhanu Chandra</span>
       </div>
 
       <div class="col-md-6">
-      <img class="img1"src="http://www.newsgram.com/wp-content/uploads/2015/07/saurav-ganguly1.jpg" class="img-responsive"/>
+      <img class="img1"src="https://s-media-cache-ak0.pinimg.com/236x/c1/f0/d1/c1f0d16e2ef38e1c3dba885b23897e66.jpg" class="img-responsive"/>
         <span class="control-span write6">Khaja Naquiuddin</span>
       </div>
 
       <div class="col-md-6">
-      <img class="img1"src="http://www.newsgram.com/wp-content/uploads/2015/07/saurav-ganguly1.jpg" class="img-responsive"/>
+      <img class="img1"src="https://s-media-cache-ak0.pinimg.com/236x/c1/f0/d1/c1f0d16e2ef38e1c3dba885b23897e66.jpg" class="img-responsive"/>
         <span class="control-span write6">Rajesh</span>
       </div>
 
       <div class="col-md-6">
-      <img class="img1"src="http://www.newsgram.com/wp-content/uploads/2015/07/saurav-ganguly1.jpg" class="img-responsive"/>
+      <img class="img1"src="https://s-media-cache-ak0.pinimg.com/236x/c1/f0/d1/c1f0d16e2ef38e1c3dba885b23897e66.jpg" class="img-responsive"/>
         <span class="control-span write6">Gandhi kumari</span>
       </div>
 
       <div class="col-md-6">
-      <img class="img1"src="http://www.newsgram.com/wp-content/uploads/2015/07/saurav-ganguly1.jpg" class="img-responsive"/>
+      <img class="img1"src="https://s-media-cache-ak0.pinimg.com/236x/c1/f0/d1/c1f0d16e2ef38e1c3dba885b23897e66.jpg" class="img-responsive"/>
         <span class="control-span write6">A.Dheeraj</span>
       </div>
 
 
       <div class="col-md-6">
-      <img class="img1"src="http://www.newsgram.com/wp-content/uploads/2015/07/saurav-ganguly1.jpg" class="img-responsive"/>
+      <img class="img1"src="https://s-media-cache-ak0.pinimg.com/236x/c1/f0/d1/c1f0d16e2ef38e1c3dba885b23897e66.jpg" class="img-responsive"/>
         <span class="control-span write6">Md.Moiz</span>
       </div>
 
 
       <div class="col-md-6">
-      <img class="img1"src="http://www.newsgram.com/wp-content/uploads/2015/07/saurav-ganguly1.jpg" class="img-responsive"/>
+      <img class="img1"src="https://s-media-cache-ak0.pinimg.com/236x/c1/f0/d1/c1f0d16e2ef38e1c3dba885b23897e66.jpg" class="img-responsive"/>
         <span class="control-span write6">Hari</span>
       </div>
 
 
       <div class="col-md-6">
-      <img class="img1"src="http://www.newsgram.com/wp-content/uploads/2015/07/saurav-ganguly1.jpg" class="img-responsive"/>
+      <img class="img1"src="https://s-media-cache-ak0.pinimg.com/236x/c1/f0/d1/c1f0d16e2ef38e1c3dba885b23897e66.jpg" class="img-responsive"/>
         <span class="control-span write6">A.Saketh</span>
       </div>
 

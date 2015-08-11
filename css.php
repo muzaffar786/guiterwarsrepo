@@ -75,11 +75,30 @@ height:75px;
   text-align: center;
 }
 
+.hght5{
+
+  height: 155px;
+  background: purple;
+  font-family: monospace;
+  border-radius: 40px;
+  padding-top: 10px;
+  border: 4px solid grey;
+  margin: 30px 0 0 100px ;
+  color: blue;
+  font-family: monospace;
+  box-shadow: 10px 7px 10px 0;
+  font-size: 15px;
+  /*text-align: center;*/
+}
+.button5 {
+  margin-top: 17px;
+}
+
 .box-shadow1 {
   box-shadow: 10px 7px 10px 0;
 }
 .hght3{
-  height: 150px;
+  height: 220px;
   background: purple;
   font-family: monospace;
   border-radius: 40px;

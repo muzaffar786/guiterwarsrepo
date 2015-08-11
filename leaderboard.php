@@ -116,7 +116,7 @@
           <div class="row">
             <div class="col-md-12">
               <div class="col-md-5">
-              <img class="img"src="http://www.newsgram.com/wp-content/uploads/2015/07/saurav-ganguly1.jpg" class="img-responsive"/>
+              <img class="img"src="https://s-media-cache-ak0.pinimg.com/236x/c1/f0/d1/c1f0d16e2ef38e1c3dba885b23897e66.jpg" class="img-responsive"/>
               </div>
               <div class="col-md-7">
                 <span class="control-span write5">Bhanu</span>
@@ -139,7 +139,7 @@
           <div class="row">
             <div class="col-md-12">
               <div class="col-md-5">
-              <img class="img"src="html/no-profile.png" class="img-responsive"/>
+              <img class="img"src="https://s-media-cache-ak0.pinimg.com/236x/c1/f0/d1/c1f0d16e2ef38e1c3dba885b23897e66.jpg" class="img-responsive"/>
               </div>
               <div class="col-md-7">
                 <span class="control-span write5">Md.Moiz</span>
@@ -163,7 +163,7 @@
           <div class="row">
             <div class="col-md-12">
               <div class="col-md-5">
-              <img class="img"src="http://www.newsgram.com/wp-content/uploads/2015/07/saurav-ganguly1.jpg" class="img-responsive"/>
+              <img class="img"src="https://s-media-cache-ak0.pinimg.com/236x/c1/f0/d1/c1f0d16e2ef38e1c3dba885b23897e66.jpg" class="img-responsive"/>
               </div>
               <div class="col-md-7">
                 <span class="control-span write5">Khaja Naquiuddin</span>
@@ -200,7 +200,7 @@
           <div class="row">
             <div class="col-md-12">
               <div class="col-md-5">
-              <img class="img"src="http://www.newsgram.com/wp-content/uploads/2015/07/saurav-ganguly1.jpg" class="img-responsive"/>
+              <img class="img"src="https://s-media-cache-ak0.pinimg.com/236x/c1/f0/d1/c1f0d16e2ef38e1c3dba885b23897e66.jpg" class="img-responsive"/>
               </div>
               <div class="col-md-7">
                 <span class="control-span write5">Rajesh</span>
@@ -223,7 +223,7 @@
                 <span class="control-span write5">Bhanu</span>
               </div>
               <div class="col-md-4 col-sm-6 col-xs-6 ">
-                <img class="img"src="http://www.newsgram.com/wp-content/uploads/2015/07/saurav-ganguly1.jpg" class="img-responsive"/>
+                <img class="img"src="https://s-media-cache-ak0.pinimg.com/236x/c1/f0/d1/c1f0d16e2ef38e1c3dba885b23897e66.jpg" class="img-responsive"/>
               </div>
               <div class="col-md-2 col-sm-6 col-xs-6 ">
                 <span class="write5">Score</span>
@@ -261,7 +261,7 @@
                 <span class="control-span write5">A.Dheeraj</span>
               </div>
               <div class="col-md-4 col-sm-6 col-xs-6 ">
-                <img class="img"src="http://www.newsgram.com/wp-content/uploads/2015/07/saurav-ganguly1.jpg" class="img-responsive"/>
+                <img class="img"src="https://s-media-cache-ak0.pinimg.com/236x/c1/f0/d1/c1f0d16e2ef38e1c3dba885b23897e66.jpg" class="img-responsive"/>
               </div>
               <div class="col-md-2 col-sm-6 col-xs-6 ">
                 <span class="write5">Score</span>
@@ -299,7 +299,7 @@
                 <span class="control-span write5">Rajesh</span>
               </div>
               <div class="col-md-4 col-sm-6 col-xs-6 ">
-                <img class="img"src="http://www.newsgram.com/wp-content/uploads/2015/07/saurav-ganguly1.jpg" class="img-responsive"/>
+                <img class="img"src="https://s-media-cache-ak0.pinimg.com/236x/c1/f0/d1/c1f0d16e2ef38e1c3dba885b23897e66.jpg" class="img-responsive"/>
               </div>
               <div class="col-md-2 col-sm-6 col-xs-6 ">
                 <span class="write5">Score</span>
@@ -337,7 +337,7 @@
                 <span class="control-span write5">Saurav Ganguly</span>
               </div>
               <div class="col-md-4 col-sm-6 col-xs-6 ">
-                <img class="img"src="http://www.newsgram.com/wp-content/uploads/2015/07/saurav-ganguly1.jpg" class="img-responsive"/>
+                <img class="img"src="https://s-media-cache-ak0.pinimg.com/236x/c1/f0/d1/c1f0d16e2ef38e1c3dba885b23897e66.jpg" class="img-responsive"/>
               </div>
               <div class="col-md-2 col-sm-6 col-xs-6 ">
                 <span class="write5">Score</span>
